@@ -1,0 +1,6 @@
+.DS_Store
+**/.ERW-IoT.UserState/
+
+# Keep the publisher's paper and class reports with student details local.
+source_materials/Downloads/0dbfa74f979621910c776a6dcdf9ac57.pdf
+source_materials/Downloads/ERW-IoT_Wormhole_Detection_System_Report*.pdf
